@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome to Aaron's space!
+			Aaron's space!
 		</c:if>
     </p>
     <p>
